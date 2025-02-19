@@ -1,0 +1,23 @@
+{
+  "featured": [
+    {
+      "id": "bk001",
+      "name": "Performance Brake Kit",
+      "description": "High-performance brake kit for superior stopping power",
+      "price": 599.99,
+      "discountPrice": 509.99,
+      "discount": 15,
+      "rating": 4.5,
+      "reviews": 128,
+      "image": "assets/images/products/brake-kit.webp",
+      "category": "brakes"
+    }
+  ],
+  "categories": [
+    "brakes",
+    "suspension",
+    "engine",
+    "transmission",
+    "exhaust"
+  ]
+} 
